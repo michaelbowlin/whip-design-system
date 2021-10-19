@@ -1,0 +1,8 @@
+{
+    "primary": {"value": "#F00DDD"},
+    "bs-color": {
+        "base": {
+            "primary": {"value": "#F00DDD"}
+        }
+    }
+}
